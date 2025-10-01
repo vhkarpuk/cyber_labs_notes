@@ -6,9 +6,18 @@ I’m currently studying Cyber Security at university and using these labs to st
 ---
 
 ## Contents
-- **TryHackMe Labs** → Fundamental skills (Linux, networking, web, exploitation)  
-- **HackTheBox Machines** → Capture-the-flag style challenges  
-- **Tools & Cheat Sheets** → Quick reference for penetration testing tools  
+- **TryHackMe Labs**
+  - [Nmap Basics](TryHackMe/nmap-basics.md)
+  - [Metasploit Basics](TryHackMe/metasploit-basics.md)
+- **HackTheBox Machines**
+  - *(coming soon – examples will be added here)*
+- **Tools & Cheat Sheets**
+  - [Nmap Cheat Sheet](Tools/nmap-cheatsheet.md)
+  - [Burp Suite Cheat Sheet](Tools/burp-cheatsheet.md)
+  - [Metasploit Cheat Sheet](Tools/metasploit-cheatsheet.md)
+  - [Wireshark Cheat Sheet](Tools/wireshark-cheatsheet.md)
+  - [John the Ripper Cheat Sheet](Tools/john-the-ripper-cheatsheet.md)
+  - [Splunk Cheat Sheet](Tools/splunk-cheatsheet.md)
 
 ---
 
