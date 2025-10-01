@@ -12,11 +12,11 @@ I’m currently studying Cyber Security at university and using these labs to st
   - *(coming soon – examples will be added here)*
 - **Tools & Cheat Sheets**
 - [Nmap Cheat Sheet](Tools/01-nmap-cheatsheet.md)
-- [Burp Suite Cheat Sheet](Tools/02-burp-cheatsheet.md)
-- [Metasploit Cheat Sheet](Tools/03-metasploit-cheatsheet.md)
-- [Wireshark Cheat Sheet](Tools/04-wireshark-cheatsheet.md)
-- [John the Ripper Cheat Sheet](Tools/05-john-the-ripper-cheatsheet.md)
-- [Splunk Cheat Sheet](Tools/06-splunk-cheatsheet.md)
+- [Burp Suite Cheat Sheet](03-Tools/02-burp-cheatsheet.md)
+- [Metasploit Cheat Sheet](03-Tools/03-metasploit-cheatsheet.md)
+- [Wireshark Cheat Sheet](03-Tools/04-wireshark-cheatsheet.md)
+- [John the Ripper Cheat Sheet](03-Tools/05-john-the-ripper-cheatsheet.md)
+- [Splunk Cheat Sheet](03-Tools/06-splunk-cheatsheet.md)
 
 ---
 
