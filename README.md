@@ -7,8 +7,7 @@ I’m currently studying Cyber Security at university and using these labs to st
 
 ## Contents
 - **TryHackMe Labs**
-  - [Nmap Basics](TryHackMe/nmap-basics.md)
-  - [Metasploit Basics](TryHackMe/metasploit-basics.md)
+  - *(coming soon – examples will be added here)*
 - **HackTheBox Machines**
   - *(coming soon – examples will be added here)*
 - **Tools & Cheat Sheets**
