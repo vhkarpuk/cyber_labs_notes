@@ -11,12 +11,12 @@ I’m currently studying Cyber Security at university and using these labs to st
 - **HackTheBox Machines**
   - *(coming soon – examples will be added here)*
 - **Tools & Cheat Sheets**
-  - [Nmap Cheat Sheet](Tools/nmap-cheatsheet.md)
-  - [Burp Suite Cheat Sheet](Tools/burp-cheatsheet.md)
-  - [Metasploit Cheat Sheet](Tools/metasploit-cheatsheet.md)
-  - [Wireshark Cheat Sheet](Tools/wireshark-cheatsheet.md)
-  - [John the Ripper Cheat Sheet](Tools/john-the-ripper-cheatsheet.md)
-  - [Splunk Cheat Sheet](Tools/splunk-cheatsheet.md)
+- [Nmap Cheat Sheet](Tools/01-nmap-cheatsheet.md)
+- [Burp Suite Cheat Sheet](Tools/02-burp-cheatsheet.md)
+- [Metasploit Cheat Sheet](Tools/03-metasploit-cheatsheet.md)
+- [Wireshark Cheat Sheet](Tools/04-wireshark-cheatsheet.md)
+- [John the Ripper Cheat Sheet](Tools/05-john-the-ripper-cheatsheet.md)
+- [Splunk Cheat Sheet](Tools/06-splunk-cheatsheet.md)
 
 ---
 
