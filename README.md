@@ -9,7 +9,7 @@ I’m currently studying Cyber Security at university and using these labs to st
 - **TryHackMe Labs**
   - *(coming soon – examples will be added here)*
 - **HackTheBox Machines**
- - 02-HackTheBox
+ - [02-HackTheBox]
 - **Tools & Cheat Sheets**
 - [01-Nmap Cheat Sheet](03-Tools/01-nmap-cheatsheet.md)
 - [02-Burp Suite Cheat Sheet](03-Tools/02-burp-cheatsheet.md)
