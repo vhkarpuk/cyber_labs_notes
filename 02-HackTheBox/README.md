@@ -28,4 +28,4 @@ machines/
 8) Re-test/Validation — how to verify the fix is effective.
 9) Reporting — sanitized write-up and evidence.
 
-> Not every phase applies to every box (e.g., some SP boxes won’t have post-exploitation).
+-Not every phase applies to every box (e.g., some SP boxes won’t have post-exploitation).
