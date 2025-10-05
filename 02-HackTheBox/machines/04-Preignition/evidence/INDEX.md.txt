@@ -1,0 +1,59 @@
+## 📂 Evidence
+
+### Connectivity
+```bash
+ping <TARGET_IP>
+64 bytes from <TARGET_IP>: icmp_seq=1 ttl=63 time=25.6 ms
+64 bytes from <TARGET_IP>: icmp_seq=2 ttl=63 time=26.7 ms
+
+Racon(Namp)
+
+nmap -sV -p- <TARGET_IP>
+Starting Nmap 7.95 ( https://nmap.org ) at <DATE>
+Nmap scan report for <TARGET_IP>
+Host is up (0.032s latency).
+Not shown: 65534 closed tcp ports (reset)
+PORT   STATE SERVICE VERSION
+80/tcp open  http    nginx 1.14.2
+
+Gobuster - setup
+
+sudo apt install golang-go
+sudo apt install gobuster
+
+gobuster --help
+# Shows available modes: dir, vhost, dns, fuzz, etc.
+
+sudo gobuster dir -w <PATH>/ -u http://<TARGET_IP>
+# error: failed to get number of lines: read <PATH>: is a directory
+
+sudo gobuster dir -w <PATH>/comon.txt -u http://<TARGET_IP>
+===============================================================
+Gobuster v3.8
+by OJ Reeves (@TheColonial) & Christian Mehlmauer (@firefart)
+===============================================================
+[+] Url:                     http://<TARGET_IP>
+[+] Method:                  GET
+[+] Threads:                 10
+[+] Wordlist:                <PATH>/comon.txt
+[+] Negative Status codes:   404
+[+] User Agent:              gobuster/3.8
+[+] Timeout:                 10s
+===============================================================
+Starting gobuster in directory enumeration mode
+===============================================================
+/admin.php            (Status: 200) [Size: 999]
+Progress: 4750 / 4750 (100.00%)
+===============================================================
+Finished
+===============================================================
+
+
+Login attempt
+
+Username: admin
+
+Password: admin
+
+✅ Successful → Flag obtained.
+
