@@ -13,6 +13,7 @@ machines/
 01-redeemer-redis/
 02-fawn-ftp/
 03-smb-guest/
+04-Preignition/
 
 ```
 
