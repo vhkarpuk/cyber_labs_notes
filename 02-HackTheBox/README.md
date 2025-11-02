@@ -14,6 +14,7 @@ machines/
 02-fawn-ftp/
 03-smb-guest/
 04-Preignition/
+05-Mongod/
 
 ```
 
