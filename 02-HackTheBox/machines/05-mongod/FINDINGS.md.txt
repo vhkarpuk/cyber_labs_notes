@@ -1,0 +1,11 @@
+## 🔍 Findings
+
+- **Task 1:** How many TCP ports are open on the machine? → `2`  
+- **Task 2:** Which service is running on port 27017 of the remote host? → `MongoDB 3.6.8`  
+- **Task 3:** What type of database is MongoDB? → `NoSQL`  
+- **Task 4:** Command to launch the interactive MongoDB shell → `mongosh`  
+- **Task 5:** Command to list all databases → `show dbs`  
+- **Task 6:** Command to list all collections in a database → `show collections`  
+- **Task 7:** Command to dump documents in collection `flag` → `db.flag.find()`  
+
+### 🎯 Flag
