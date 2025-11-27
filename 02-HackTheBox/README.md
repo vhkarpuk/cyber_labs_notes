@@ -15,6 +15,7 @@ machines/
 03-smb-guest/
 04-Preignition/
 05-Mongod/
+06-sequel/
 
 ```
 
