@@ -17,7 +17,9 @@ I’m currently studying Cyber Security at university and using these labs to st
   - [03 – Redeemer](./02-HackTheBox/machines/03-redeemer/)
   - [04 – Preignition](./02-HackTheBox/machines/04-Preignition/)
   - [05 – Mongod](./02-HackTheBox/machines/05-mongod/)
+  - [06 – Sequel](./02-HackTheBox/machines/06-sequel/)
   - **[07 – SSTI (Flask / Mako)](./02-HackTheBox/machines/07-ssti-flask-mako/)**
+
 
 ### 🔹 Tools & Cheat Sheets
 - [01 – Nmap Cheat Sheet](03-Tools/01-nmap-cheatsheet.md)
