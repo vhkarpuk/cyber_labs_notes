@@ -6,17 +6,27 @@ I’m currently studying Cyber Security at university and using these labs to st
 ---
 
 ## Contents
-- **TryHackMe Labs**
-  - *(coming soon – examples will be added here)*
-- **HackTheBox Machines**
+
+### 🔹 TryHackMe Labs
+- *(coming soon – examples will be added here)*
+
+### 🔹 HackTheBox Machines
 - [02 – HackTheBox](./02-HackTheBox/)
-- **Tools & Cheat Sheets**
-- [01-Nmap Cheat Sheet](03-Tools/01-nmap-cheatsheet.md)
-- [02-Burp Suite Cheat Sheet](03-Tools/02-burp-cheatsheet.md)
-- [03-Metasploit Cheat Sheet](03-Tools/03-metasploit-cheatsheet.md)
-- [04-Wireshark Cheat Sheet](03-Tools/04-wireshark-cheatsheet.md)
-- [05-John the Ripper Cheat Sheet](03-Tools/05-john-the-ripper-cheatsheet.md)
-- [06-Splunk Cheat Sheet](03-Tools/06-splunk-cheatsheet.md)
+  - [01 – Fawn](./02-HackTheBox/machines/01-fawn/)
+  - [02 – SMB Guest](./02-HackTheBox/machines/02-smb-guest/)
+  - [03 – Redeemer](./02-HackTheBox/machines/03-redeemer/)
+  - [04 – Preignition](./02-HackTheBox/machines/04-Preignition/)
+  - [05 – Mongod](./02-HackTheBox/machines/05-mongod/)
+  - **[07 – SSTI (Flask / Mako)](./02-HackTheBox/machines/07-ssti-flask-mako/)**
+
+### 🔹 Tools & Cheat Sheets
+- [01 – Nmap Cheat Sheet](03-Tools/01-nmap-cheatsheet.md)
+- [02 – Burp Suite Cheat Sheet](03-Tools/02-burp-cheatsheet.md)
+- [03 – Metasploit Cheat Sheet](03-Tools/03-metasploit-cheatsheet.md)
+- [04 – Wireshark Cheat Sheet](03-Tools/04-wireshark-cheatsheet.md)
+- [05 – John the Ripper Cheat Sheet](03-Tools/05-john-the-ripper-cheatsheet.md)
+- [06 – Splunk Cheat Sheet](03-Tools/06-splunk-cheatsheet.md)
+
 
 ---
 
