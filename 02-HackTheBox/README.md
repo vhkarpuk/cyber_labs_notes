@@ -10,13 +10,13 @@ Sanitized case studies from **Hack The Box**. Each box lives in its own folder w
 
 ```
 machines/
-01-redeemer-redis/
-02-fawn-ftp/
-03-smb-guest/
+01-fawn/
+02-smb-guest/
+03-redeemer/
 04-Preignition/
-05-Mongod/
+05-mongod/
 06-sequel/
-
+07-ssti-flask-mako/
 ```
 
 ## Methodology (HTB Labs)
