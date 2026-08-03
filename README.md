@@ -5,25 +5,20 @@ Hands-on notes and sanitized case studies from my cybersecurity training — Hac
 ## Contents
 
 ### HackTheBox Machines
-- [01 – Fawn](./02-HackTheBox/machines/01-fawn/)
-- [02 – SMB Guest](./02-HackTheBox/machines/02-smb-guest/)
-- [03 – Redeemer](./02-HackTheBox/machines/03-redeemer/)
-- [04 – Preignition](./02-HackTheBox/machines/04-Preignition/)
-- [05 – Mongod](./02-HackTheBox/machines/05-mongod/)
-- [06 – Sequel](./02-HackTheBox/machines/06-sequel/)
-- [07 – SSTI (Flask / Mako)](./02-HackTheBox/machines/07-ssti-flask-mako/)
+- [01 – Fawn](./02-HackTheBox/machines/01-fawn/) — FTP anonymous access
+- [02 – SMB Guest](./02-HackTheBox/machines/02-smb-guest/) — SMB guest/anonymous access
+- [03 – Redeemer](./02-HackTheBox/machines/03-redeemer/) — Unauthenticated Redis enumeration
+- [04 – SSTI (Flask / Mako)](./02-HackTheBox/machines/04-ssti-flask-mako/) — Server-side template injection to RCE
 
 Each machine folder follows the same format: `README.md` (walkthrough), `FINDINGS.md` (risk/impact/remediation with OWASP/CWE mapping), `evidence/` (sanitized artifacts). See [02-HackTheBox](./02-HackTheBox/) for the full methodology.
 
 ### TryHackMe Labs
 - *(in progress)*
 
-## Tools, Frameworks & Skills
+## Tools & Skills
 
-- **Tools:** Nmap, Burp Suite, Metasploit, Wireshark, John the Ripper, Splunk
-- **Scripting:** C, Python, Bash
-- **Threat intel platforms:** UrlScan.io, Abuse.ch, PhishTool, Cisco Talos Intelligence
-- **Frameworks:** MITRE ATT&CK, D3FEND, Pyramid of Pain, Cyber Kill Chain, Diamond Model
+Tools used across the walkthroughs above: Nmap, smbclient/smbmap, redis-cli.
+Scripting: C, Python, Bash.
 
 ## Disclaimer
 

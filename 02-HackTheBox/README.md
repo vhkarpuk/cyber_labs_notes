@@ -13,10 +13,7 @@ machines/
 01-fawn/
 02-smb-guest/
 03-redeemer/
-04-Preignition/
-05-mongod/
-06-sequel/
-07-ssti-flask-mako/
+04-ssti-flask-mako/
 ```
 
 ## Methodology (HTB Labs)
