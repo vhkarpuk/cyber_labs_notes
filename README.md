@@ -1,6 +1,6 @@
 # Cybersecurity Labs & Notes
 
-Hands-on notes and sanitized case studies from my cybersecurity training — HackTheBox, TryHackMe, and TCM Security's PJPT/PNPT coursework. I'm studying Cyber Security at university and use these labs to build practical, real-world skills.
+Hands-on notes and sanitized case studies from my cybersecurity training — HackTheBox and TryHackMe. I'm studying Cyber Security at university and use these labs to build practical, real-world skills.
 
 ## Contents
 
@@ -17,13 +17,6 @@ Each machine folder follows the same format: `README.md` (walkthrough), `FINDING
 
 ### TryHackMe Labs
 - *(in progress)*
-
-### PJPT / PNPT Prep (TCM Security)
-- [OSINT Fundamentals](./04-PJPT-PNPT/01-osint-fundamentals/)
-- [External Pentest](./04-PJPT-PNPT/02-external-pentest/)
-- [Active Directory](./04-PJPT-PNPT/03-active-directory/)
-- [Report Writing](./04-PJPT-PNPT/04-report-writing/)
-- [Exam Notes](./04-PJPT-PNPT/05-exam-notes/)
 
 ### Tools & Cheat Sheets
 - [Nmap](03-Tools/01-nmap-cheatsheet.md)
