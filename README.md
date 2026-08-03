@@ -18,14 +18,6 @@ Each machine folder follows the same format: `README.md` (walkthrough), `FINDING
 ### TryHackMe Labs
 - *(in progress)*
 
-### Tools & Cheat Sheets
-- [Nmap](03-Tools/01-nmap-cheatsheet.md)
-- [Burp Suite](03-Tools/02-burp-cheatsheet.md)
-- [Metasploit](03-Tools/03-metasploit-cheatsheet.md)
-- [Wireshark](03-Tools/04-wireshark-cheatsheet.md)
-- [John the Ripper](03-Tools/05-john-the-ripper-cheatsheet.md)
-- [Splunk](03-Tools/06-splunk-cheatsheet.md)
-
 ## Tools, Frameworks & Skills
 
 - **Tools:** Nmap, Burp Suite, Metasploit, Wireshark, John the Ripper, Splunk
